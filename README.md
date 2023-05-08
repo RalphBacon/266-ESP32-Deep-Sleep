@@ -25,11 +25,23 @@ So a low current ESP32 seems the way forward.
 ► thingPulse low power Deep Sleep ESP32 WROVER module  
 https://thingpulse.com/product/epulse-feather-low-power-esp32-development-board/  
 
+---
+
+![image](https://user-images.githubusercontent.com/20911308/236849893-011521bb-4401-4058-b457-e0b3787d01e5.png)  
+Oregon Embedded Battery Life Calculator  
+http://oregonembedded.com/batterycalc.htm
+
+---
+
 ► Cool Term Serial Monitor (standalone freeware program)  
 http://freeware.the-meiers.org  
 
+---
+
 ► ESP32 Sleep Modes explained  
 https://lastminuteengineers.com/esp32-sleep-modes-power-consumption/  
+
+---
 
 ► List of all my videos
 (Special thanks to Michael Kurt Vogel for compiling this)  
