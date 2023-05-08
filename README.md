@@ -9,4 +9,16 @@ A Real World project that uses an ESP32 in Deep Sleep
 [![Flex PCBs Special Offer](https://user-images.githubusercontent.com/20911308/226928395-0f7add24-e5ca-4b13-a819-d330ae9f5f77.gif "PCBWay - up to 60% off Flex/Rigid PCBs")](https://pcbway.com/)  
 
 ### Intro  
-I need to be able to detect when my workshop has been opened - and STAYS open. And when it SHUTS again. So a low current ESP32 seems the way forward.
+I need to be able to detect when my workshop door has been opened - and STAYS open. And when it SHUTS again. So a low current ESP32 seems the way forward.
+
+
+
+
+
+
+### Links  
+thingPulse low power Deep Sleep ESP32 WROVER module  
+
+
+Cool Term Serial Monitor (standalone program)  
+
