@@ -25,6 +25,12 @@ https://thingpulse.com/product/epulse-feather-low-power-esp32-development-board/
 
 ---
 
+![image](https://user-images.githubusercontent.com/20911308/236874965-d41bd558-ab3d-481d-aa50-74ccdcb81a99.png)  
+AliExpress Si4599 BoB (Breakout Board, for breadboard use), less than $1 each 😮)  
+https://s.click.aliexpress.com/e/_DCSo3MN  
+
+---
+
 ![image](https://user-images.githubusercontent.com/20911308/236849893-011521bb-4401-4058-b457-e0b3787d01e5.png)  
 Oregon Embedded Battery Life Calculator  
 http://oregonembedded.com/batterycalc.htm
