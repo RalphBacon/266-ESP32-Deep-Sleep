@@ -10,7 +10,7 @@
 ### Intro  
 I need to be able to detect when my workshop door has been opened - and STAYS open. And when it SHUTS again. 
 
-The ESP32 needs to communicate with my Smart Heater Controller to turn off the heater (if it's on) so I don't waste power trying to heat up the world if the door is open.
+The ESP32 needs to communicate with my Smart Heater Controller to turn off the heater (if it's on) or air-con (ditto) so I don't waste power trying to heat up (or cool down) the world if the door is open.
 
 When the door closes it can then tell the Smart Heater Controller to go back doing whatever it was doing (heating, cooling) as though nothing had interrupted it.
 
