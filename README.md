@@ -29,6 +29,9 @@ https://thingpulse.com/product/epulse-feather-low-power-esp32-development-board/
 AliExpress Si4599 BoB (Breakout Board, for breadboard use), less than $1 each 😮)  
 https://s.click.aliexpress.com/e/_DCSo3MN  
 
+Cheaper alternative AO4606, 10 pieces for £1.36 + shipping  
+https://s.click.aliexpress.com/e/_DnCEIid  
+
 ---
 
 ![image](https://user-images.githubusercontent.com/20911308/236849893-011521bb-4401-4058-b457-e0b3787d01e5.png)  
