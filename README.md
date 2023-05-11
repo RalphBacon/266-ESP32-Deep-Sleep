@@ -16,7 +16,7 @@ When the door closes it can then tell the Smart Heater Controller to go back doi
 
 And, of course, I need some means whereby the device tells me it's working (or has gone wrong).  
 
-So a low current ESP32 seems the way forward.  
+So a low current ESP32 seems the way forward. Am I on the right track?  
 
 ### Links  
 ![image](https://user-images.githubusercontent.com/20911308/236849220-8723ed28-25b6-4a1e-873b-3a7556139c7c.png)  
