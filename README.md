@@ -1,4 +1,4 @@
-# Video #269: ESP32 Deep Sleep Project
+# Video #266: ESP32 Deep Sleep Project
 #### A Real World project that uses an ESP32 in Deep Sleep  
 ![Thumbnail-00024 (Phone)](https://user-images.githubusercontent.com/20911308/236845987-85f29879-7de7-4652-9307-35f5792a9c5e.png)  
 
